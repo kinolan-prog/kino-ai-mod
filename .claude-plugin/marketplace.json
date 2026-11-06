@@ -1,0 +1,11 @@
+{
+  "name": "kino-ai-mod",
+  "owner": { "name": "kinolan-prog", "url": "https://github.com/kinolan-prog" },
+  "plugins": [
+    {
+      "name": "token-meter",
+      "source": "./token-meter",
+      "description": "對話欄上方的 Token 用量儀表板：額度、上下文、token 用量與節約工具"
+    }
+  ]
+}

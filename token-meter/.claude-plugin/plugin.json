@@ -1,0 +1,9 @@
+{
+  "name": "token-meter",
+  "version": "0.1.0",
+  "description": "對話欄上方顯示用量額度、對話累計 token、本回合輸入/輸出 token 與上下文使用率，並提供上下文分析、一鍵壓縮與輸出瘦身",
+  "author": { "name": "kinolan-prog", "url": "https://github.com/kinolan-prog" },
+  "homepage": "https://github.com/kinolan-prog/kino-ai-mod",
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
